@@ -5,6 +5,4 @@ Just a haskell repository. Mainly for vitoshacademy.com and its videos in YouTub
 https://wiki.haskell.org/Programming_guidelines
 
 ## YouTube Videos
-### Intro in Haskell
-
-📺 -> 01 [Learning Haskell - An Introduction to the language](https://youtu.be/DTLn51N9hyA)
+📺 -> 01-Intro.hs -> [Learning Haskell - An Introduction to the language](https://youtu.be/DTLn51N9hyA)
