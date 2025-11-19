@@ -1,5 +1,5 @@
 # Haskell
-Just a haskell repository. Mainly for vitoshacademy.com and its videos in YouTube.
+Just a haskell repository. Mainly for https://vitoshacademy.com and its videos in [YouTube](https://www.youtube.com/user/vitoshacademy).
 
 ## Haskell.org Programming Guidelines:
 https://wiki.haskell.org/Programming_guidelines
